@@ -1,2 +1,2 @@
 # Maze-Game
-A Maze game in C++ using ASCII
+A Maze game in C++ using ASCII Characters
